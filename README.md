@@ -1,7 +1,7 @@
 # 🛃 CUSTOMER CARE REGISTRY
 
 - TECHNOLOGY : CLOUD APP DEVELOPMENT
-- TEAM ID    : PNT2022TMID48470
+- TEAM ID     : PNT2022TMID48470
 
 # 📒 PROJECT DESCRIPTION
 
@@ -23,13 +23,13 @@ This Application has been developed to help the customer in processing their com
 
 
 ## 🔗 LINKS
-- SABARISH T        [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SABARISH%20T) 
+- SABARISH T          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SABARISH%20T) 
 - LOKESHWAR M S     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/LOKESHWAR%20M%20S)
 - SHANMUGAM T       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SHANMUGAM%20T)
 - SURIYAKUMAR K     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SURIYAKUMAR%20K)
 
 
 
-# EMPATHY MAP CANVAS :
+## EMPATHY MAP CANVAS :
 
-     [EMPATHY MAP LINK ](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Project/Empathy%20Map%20Canvas)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Project/Empathy%20Map%20Canvas)
