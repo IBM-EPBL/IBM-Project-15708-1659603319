@@ -23,10 +23,10 @@ This Application has been developed to help the customer in processing their com
 
 
 ## 🔗 LINKS
-- SABARISH T          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SABARISH%20T) 
-- LOKESHWAR M S     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/LOKESHWAR%20M%20S)
-- SHANMUGAM T       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SHANMUGAM%20T)
-- SURIYAKUMAR K     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignment/SURIYAKUMAR%20K)
+- SABARISH T          [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Lead) 
+- LOKESHWAR M S     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%201)
+- SHANMUGAM T       [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%202)
+- SURIYAKUMAR K     [ASSIGNMENT](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Assignments/Team%20Member%203)
 
 
 
