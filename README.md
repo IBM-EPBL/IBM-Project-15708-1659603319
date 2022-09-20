@@ -32,4 +32,4 @@ This Application has been developed to help the customer in processing their com
 
 ## EMPATHY MAP CANVAS :
 
-   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/tree/main/Project/Empathy%20Map%20Canvas)
+   - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Empathy%20Map%20Canvas.pdf)
