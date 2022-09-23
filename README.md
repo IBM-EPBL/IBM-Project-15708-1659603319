@@ -33,3 +33,24 @@ This Application has been developed to help the customer in processing their com
 ## EMPATHY MAP CANVAS :
 
    - [EMPATHY MAP LINK](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Empathy%20Map%20Canvas.pdf)
+
+
+## BRAINSTORMING - IDEA GENERATION :
+
+   - [BRAINSTORMING](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Brainstorming-%20Idea%20Generation-%20Prioritizaation%20Template.pdf)
+
+
+## LITERATURE SURVEY :
+
+   - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
+
+
+## PROBLEM STATEMENTS :
+
+   - [PROBLEM STATEMENTS](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Problem%20Statements%20.pdf)
+
+
+
+## PROPOSED SOLUTION :
+
+   - [PROPOSED SOLUTION](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Project%20Design%20Phase%20I/Proposed%20Solution.pdf)
