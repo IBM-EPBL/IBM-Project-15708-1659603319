@@ -42,7 +42,7 @@ This Application has been developed to help the customer in processing their com
 
 ## LITERATURE SURVEY :
 
-   - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey.pdf)
+   - [LITERATURE SURVEY](https://github.com/IBM-EPBL/IBM-Project-15708-1659603319/blob/main/Project%20Design%20%26%20Planning/Ideation%20Phase/Literature%20Survey%20.pdf)
 
 
 ## PROBLEM STATEMENTS :
